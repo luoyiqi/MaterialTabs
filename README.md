@@ -27,7 +27,6 @@ This project uses  SlidingTabLayout.java & SlidingTabStrip.java from Google I/O 
         // Setting the ViewPager For the SlidingTabsLayout
         tabs.setViewPager(pager);
 ```
-
 [![MaterialTabs](https://github.com/scionoftech/MaterialTabs/blob/Development/tabs.PNG)]
 ## License
 
